@@ -1,0 +1,13 @@
+# Python bytecode
+*.pyc
+__pycache__/
+
+# Modelli pesanti (se non vuoi caricarli su GitHub)
+outputs/
+*.pth
+
+# Dati di addestramento
+data/
+
+# Jupyter checkpoint
+.ipynb_checkpoints/
